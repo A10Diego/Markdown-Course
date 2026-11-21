@@ -32,6 +32,9 @@ this is an ~~texto~~ tachado
 
 [faztweb.com](https://www.faztweb.com "hola")
 
+[Adam-p](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+
+
 > this is a quote
 
 ---
